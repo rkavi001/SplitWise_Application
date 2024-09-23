@@ -9,8 +9,8 @@ Features
 4.Interactive User Interface: Users can generate new problems or solve existing ones with the click of a button.
 
 Technology Stack
-Frontend: HTML, CSS, JavaScript
-Data Structure: Binary Heap for efficient settlement calculations
+1.Frontend: HTML, CSS, JavaScript
+2.Data Structure: Binary Heap for efficient settlement calculations
 
 
 
