@@ -10,6 +10,7 @@ Features
 
 Technology Stack
 1.Frontend: HTML, CSS, JavaScript
+
 2.Data Structure: Binary Heap for efficient settlement calculations
 
 
